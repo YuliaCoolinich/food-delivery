@@ -1,4 +1,4 @@
-#Demo 
+# Demo 
 https://project01-2a44c.web.app/
 # About project:
 Data about available meals are fetched from the Firebase Realtime Database.
